@@ -3,18 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "mysite"
+  title: "Vaasuki Marupaka"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  page-footer: 
+    center: "Copyright 2023, Vaasuki Marupaka" 
+  
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

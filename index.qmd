@@ -1,11 +1,50 @@
 ---
-title: "mysite"
+title: "Vaasuki Marupaka"
+subtitle: (she/her/hers)
+image: headshot.jpeg
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+toc: false
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  image-width: 30em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/vaasuki-marupaka-
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/v_marupaka
+    - icon: github
+      text: GitHub
+      href: https://github.com/vaasukimarupaka
+    - icon: envelope
+      text: Contact Email
+      href: mailto:vmarupaka@ufl.edu
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Hello!
 
-```{r}
-1 + 1
-```
+Thank you for stopping by! I am a second year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville.
+
+
+## Education
+
+PhD student in Environmental Engineering | 2022 - Present  
+**University of Florida** | Gainesville, Florida
+
+M.S in Soil and Water Sciences | 2019 - 2021  
+**University of Florida** | Gainesville, Florida
+
+B.S in Agricultural Sciences | 2013 - 2017  
+**Agricultural University** | Hyderabad, India
+
+
+:::
+
+---

@@ -1,16 +1,37 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vaasuki Marupaka",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Twitter\n  \n  \n    \n     GitHub\n  \n  \n    \n     Contact Email\n  \n\n  \n  \n\n\nThank you for stopping by! I am a second year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville.\n\n\n\nPhD student in Environmental Engineering | 2022 - Present\nUniversity of Florida | Gainesville, Florida\nM.S in Soil and Water Sciences | 2019 - 2021\nUniversity of Florida | Gainesville, Florida\nB.S in Agricultural Sciences | 2013 - 2017\nAgricultural University | Hyderabad, India"
+  },
+  {
+    "objectID": "index.html#hello-1",
+    "href": "index.html#hello-1",
+    "title": "Vaasuki Marupaka",
+    "section": "Hello!",
+    "text": "Hello!\nThank you for stopping by! I am a second year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville.\nI am fascinated with soils and their potential to combat increasing global climate change. Soils can help us in deep understanding of the Earth systems and challenges at the intersection of different environmental entities and associated feedbacks. It is an exciting time to study soils!!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Vaasuki Marupaka",
+    "section": "",
+    "text": "PhD student in Environmental Engineering | 2022 - Present\nUniversity of Florida | Gainesville, Florida\nM.S in Soil and Water Sciences | 2019 - 2021\nUniversity of Florida | Gainesville, Florida\nB.S in Agricultural Sciences | 2013 - 2017\nAgricultural University | Hyderabad, India"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am fascinated with soils and their potential to combat global climate change. Soils can help us in deep understanding of the Earth systems and potential challenges at the intersection of different environmental entities and their associated feedbacks. It is an exciting time to study soils!!\n\n\n  image taken by me during our Pedology class!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "mysite",
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Vaasuki Marupaka",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Thank you for stopping by! I am a second year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville."
   }
 ]
