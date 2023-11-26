@@ -10,7 +10,7 @@ about:
   id: hero-heading
   template: trestles
   image-shape: round
-  image-width: 30em
+  image-width: 25em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -28,9 +28,13 @@ about:
 
 :::{#hero-heading}
 
-## Hello!
+## Hi there!
 
-Thank you for stopping by! I am a second year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville.
+Thank you for stopping by! I'm Vaasuki, and I'm from Hyderabad, South-India where I spent most of my life. I moved to the United States few years ago for my graduate degree. I love school, one of the highlights that school offers apart from the process of pursuing my scholarly interests are exploring my other hobbies like music, sports! And ofcourse, the academic struggle is real as it keeps you on your toes with deadlines and research duties, quite literally and figuratively!!  
+
+I am currently a second year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville. 
+
+Stop by and checkout some of my work going forward and also watch me sit in amusement soaking up all that graduate life has to throw at me! 
 
 
 ## Education
