@@ -10,7 +10,7 @@ I am fascinated with soils and their potential to combat global climate change. 
 :::
 :::{}
 <br>
-![](soil_profile_photo.jpeg)
+![](Pictures/soil_profile_photo.jpeg)
 image taken by me during our Pedology class!
 :::
 ::::::

@@ -18,7 +18,7 @@ format:
     theme:
       light: flatly
       dark: darkly
-    css: styles.css
+    css: style.css
     toc: true
     page-layout: full
 

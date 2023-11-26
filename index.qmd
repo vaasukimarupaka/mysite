@@ -1,7 +1,7 @@
 ---
 title: "Vaasuki Marupaka"
 subtitle: (she/her/hers)
-image: headshot.jpeg
+image: Pictures/headshot.jpeg
 color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
@@ -26,29 +26,23 @@ about:
       href: mailto:vmarupaka@ufl.edu
 ---
 
-:::{#hero-heading}
-
+::: {#hero-heading}
 ## Hi there!
 
-Thank you for stopping by! I'm Vaasuki, and I'm from Hyderabad, South-India where I spent most of my life. I moved to the United States few years ago for my graduate degree. I love school, one of the highlights that school offers apart from the process of pursuing my scholarly interests are exploring my other hobbies like music, sports! And ofcourse, the academic struggle is real as it keeps you on your toes with deadlines and research duties, quite literally and figuratively!!  
+Thank you for stopping by! I'm Vaasuki, and I'm from Hyderabad, South-India where I spent most of my life. I am currently a second year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville.
 
-I am currently a second year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville. 
-
-Stop by and checkout some of my work going forward and also watch me sit in amusement soaking up all that graduate life has to throw at me! 
-
+Stop by and checkout some of my research work going forward!
 
 ## Education
 
-PhD student in Environmental Engineering | 2022 - Present  
-**University of Florida** | Gainesville, Florida
+PhD student in Environmental Engineering \| 2022 - Present\
+**University of Florida** \| Gainesville, Florida
 
-M.S in Soil and Water Sciences | 2019 - 2021  
-**University of Florida** | Gainesville, Florida
+M.S in Soil and Water Sciences \| 2019 - 2021\
+**University of Florida** \| Gainesville, Florida
 
-B.S in Agricultural Sciences | 2013 - 2017  
-**Agricultural University** | Hyderabad, India
-
-
+B.S in Agricultural Sciences \| 2013 - 2017\
+**Agricultural University** \| Hyderabad, India
 :::
 
----
+------------------------------------------------------------------------
