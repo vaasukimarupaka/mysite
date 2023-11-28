@@ -23,13 +23,13 @@ about:
       href: https://github.com/vaasukimarupaka
     - icon: envelope
       text: Contact Email
-      href: mailto:vmarupaka@ufl.edu
+      href: mailto:vmarupaka at ufl dot edu
 ---
 
 ::: {#hero-heading}
 ## Hi there!
 
-Thank you for stopping by! I'm Vaasuki, and I'm from Hyderabad, South-India where I spent most of my life. I am currently a second year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville.
+Thank you for stopping by! I'm Vaasuki and I am currently a second year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville.
 
 Stop by and checkout some of my research work going forward!
 
