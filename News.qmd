@@ -1,0 +1,5 @@
+---
+title: "News"
+---
+
+Check out my guest blog on [The Power of Soil Data](https://www.esipfed.org/merge/collaboration-updates/guest-blog-the-power-of-soil-data) as a part of [Soil Ontology and Informatics Cluster](https://www.esipfed.org/get-involved/collaborate/soil) collaboration through [Earth System Information Partners (ESIP)](https://www.esipfed.org)!

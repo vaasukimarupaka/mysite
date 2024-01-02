@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: About
       - about.qmd
+      - News.qmd
   page-footer: 
     center: "Copyright 2023, Vaasuki Marupaka" 
   
