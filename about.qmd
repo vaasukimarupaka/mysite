@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-::: {layout="[55, 30]"}
+::::: {layout="[55, 30]"}
 <div>
 
 I am fascinated with soils and their potential to combat global climate change. Soils can help us in deep understanding of the Earth systems and potential challenges at the intersection of different environmental entities and their associated feedbacks. It is an exciting time to study soils!!
@@ -14,6 +14,6 @@ I am fascinated with soils and their potential to combat global climate change. 
 <br> ![](Pictures/soil_profile_photo.jpeg) image taken by me during our Pedology class!
 
 </div>
-:::
+:::::
 
 ------------------------------------------------------------------------
