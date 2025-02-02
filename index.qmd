@@ -1,6 +1,6 @@
 ---
 title: "Vaasuki Marupaka"
-subtitle: (she/her/hers)
+#subtitle: (she/her/hers)
 image: Pictures/headshot.jpeg
 color1: "#5A59A3"
 color2: "#C66060"
@@ -8,9 +8,9 @@ angle: 130
 toc: false
 about:
   id: hero-heading
-  template: trestles
+  template: jolla
   image-shape: round
-  image-width: 25em
+  image-width: 15em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -29,20 +29,9 @@ about:
 ::: {#hero-heading}
 ## Hi there!
 
-Thank you for stopping by! I'm Vaasuki and I am currently a second year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville.
+Thank you for stopping by! I'm Vaasuki and I am currently a third year PhD student researching on soil carbon dynamics and underlying biogeochemistry through the lens of global soil data at the University of Florida, Gainesville.
 
 Stop by and checkout some of my research work going forward!
-
-## Education
-
-PhD student in Environmental Engineering \| 2022 - Present\
-**University of Florida** \| Gainesville, Florida
-
-M.S in Soil and Water Sciences \| 2019 - 2021\
-**University of Florida** \| Gainesville, Florida
-
-B.S in Agricultural Sciences \| 2013 - 2017\
-**Agricultural University** \| Hyderabad, India
 :::
 
 ------------------------------------------------------------------------
